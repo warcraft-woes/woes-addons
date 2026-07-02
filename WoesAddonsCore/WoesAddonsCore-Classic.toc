@@ -10,3 +10,17 @@
 ## X-Acronym: WAC
 
 WoesAddonsCore.lua
+Core.lua
+Database.lua
+Media.lua
+Sounds.lua
+Animation.lua
+Tooltips.lua
+Print.lua
+Toasts.lua
+UI\Controls.lua
+UI\Window.lua
+UI\Views.lua
+UI\Settings.lua
+UI\Widgets.lua
+CoreSettings.lua
