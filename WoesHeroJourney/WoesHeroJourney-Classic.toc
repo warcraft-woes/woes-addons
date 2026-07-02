@@ -5,6 +5,7 @@
 ## IconTexture: Interface\AddOns\WoesAddonsCore\Media\Textures\icon.blp
 ## Version: 0.1
 ## Author: Woes-Dreamscythe
+## Dependencies: WoesAddonsCore
 ## SavedVariables: WoesHeroJourneyDB
 ## SavedVariablesPerCharacter: WoesHeroJourneyCharacterDB
 ## X-Acronym: WHJ
