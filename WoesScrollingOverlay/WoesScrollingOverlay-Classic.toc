@@ -5,8 +5,20 @@
 ## IconTexture: Interface\AddOns\WoesAddonsCore\Media\Textures\icon.blp
 ## Version: 0.1
 ## Author: Woes-Dreamscythe
-## SavedVariables: WoesScrollingOverlayDB
+## Dependencies: WoesAddonsCore
+## OptionalDeps: KillTrack
 ## SavedVariablesPerCharacter: WoesScrollingOverlayCharacterDB
 ## X-Acronym: WSO
 
 WoesScrollingOverlay.lua
+Constants.lua
+Utils.lua
+Theme.lua
+Database.lua
+Skills.lua
+Trackers.lua
+Providers.lua
+Ticker.lua
+Editor.lua
+Settings.lua
+Events.lua
