@@ -1,0 +1,12 @@
+## Interface: 20505
+## Title: Woes Chest Tracker
+## Notes: Chest Tracking
+## Category: Woes AddOns
+## IconTexture: Interface\AddOns\WoesAddonsCore\Media\Textures\icon.blp
+## Version: 0.1
+## Author: Woes-Dreamscythe
+## SavedVariables: WoesChestTrackerDB
+## SavedVariablesPerCharacter: WoesChestTrackerCharacterDB
+## X-Acronym: WCT
+
+WoesChestTracker.lua

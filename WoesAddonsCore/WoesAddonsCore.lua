@@ -1,0 +1,1 @@
+print("WoesAddonsCore Loaded.")

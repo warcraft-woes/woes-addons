@@ -1,0 +1,12 @@
+## Interface: 20505
+## Title: Woes Hero Journey
+## Notes: Hero Journey
+## Category: Woes AddOns
+## IconTexture: Interface\AddOns\WoesAddonsCore\Media\Textures\icon.blp
+## Version: 0.1
+## Author: Woes-Dreamscythe
+## SavedVariables: WoesHeroJourneyDB
+## SavedVariablesPerCharacter: WoesHeroJourneyCharacterDB
+## X-Acronym: WHJ
+
+WoesHeroJourney.lua

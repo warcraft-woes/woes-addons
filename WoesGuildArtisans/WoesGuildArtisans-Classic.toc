@@ -1,0 +1,12 @@
+## Interface: 11507
+## Title: Woes Guild Artisans
+## Notes: Guild Artisans
+## Category: Woes AddOns
+## IconTexture: Interface\AddOns\WoesAddonsCore\Media\Textures\icon.blp
+## Version: 0.1
+## Author: Woes-Dreamscythe
+## SavedVariables: WoesGuildArtisansDB
+## SavedVariablesPerCharacter: WoesGuildArtisansCharacterDB
+## X-Acronym: WGA
+
+WoesGuildArtisans.lua

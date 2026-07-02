@@ -1,0 +1,12 @@
+## Interface: 11507
+## Title: Woes Addons Core
+## Notes: Addons Core
+## Category: Woes AddOns
+## IconTexture: Interface\AddOns\WoesAddonsCore\Media\Textures\icon.blp
+## Version: 0.1
+## Author: Woes-Dreamscythe
+## SavedVariables: WoesAddonsCoreDB
+## SavedVariablesPerCharacter: WoesAddonsCoreCharacterDB
+## X-Acronym: WAC
+
+WoesAddonsCore.lua

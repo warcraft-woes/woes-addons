@@ -1,0 +1,12 @@
+## Interface: 11507
+## Title: Woes Scrolling Overlay
+## Notes: Scrolling Overlay
+## Category: Woes AddOns
+## IconTexture: Interface\AddOns\WoesAddonsCore\Media\Textures\icon.blp
+## Version: 0.1
+## Author: Woes-Dreamscythe
+## SavedVariables: WoesScrollingOverlayDB
+## SavedVariablesPerCharacter: WoesScrollingOverlayCharacterDB
+## X-Acronym: WSO
+
+WoesScrollingOverlay.lua
